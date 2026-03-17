@@ -1,3 +1,6 @@
-//const debug = import.meta.env.MODE !== 'production';// 非生产环境
-const debug = true;//正式项目时关闭
+// 非生产环境
+// const debug = import.meta.env.MODE !== 'production';
+// 正式项目时关闭
+const debug = true;
+
 export default debug;
