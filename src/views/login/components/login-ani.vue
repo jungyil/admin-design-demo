@@ -576,7 +576,7 @@
 
     &__content {
       position: relative;
-      width: 550px;
+      width: 500px;
       height: 500px;
       display: flex;
       align-items: flex-end;
