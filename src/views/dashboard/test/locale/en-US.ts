@@ -1,0 +1,20 @@
+export default {
+  'menu.dashboard.test': 'Test Page',
+  'test.alert.info':
+    'This is a test page for verifying project configuration and functionality',
+  'test.button.click': 'Click Test',
+  'test.input.placeholder': 'Input Test',
+  'test.select.placeholder': 'Select Test',
+  'test.checkbox.label': 'Checkbox',
+  'test.radio.label1': 'Radio 1',
+  'test.radio.label2': 'Radio 2',
+  'test.message.button': 'Message',
+  'test.notification.button': 'Notification',
+  'test.modal.button': 'Modal',
+  'test.card.basic': 'Basic Components',
+  'test.card.feedback': 'Feedback Components',
+  'test.card.data': 'Data Display',
+  'test.table.column.name': 'Name',
+  'test.table.column.age': 'Age',
+  'test.table.column.city': 'City',
+};
